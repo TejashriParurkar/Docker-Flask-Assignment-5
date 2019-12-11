@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cars</title>
+    <h1 class="header">Top 10 hyper CARS of 2019</h1>
+    <style>
+      .header {
+        padding: 70px;
+        text-align: center;
+        color: thistle;
+        background-color: black;
+        font-size: 40px;
+      }
+      .div {
+        text-align: center;
+        font-size: 50px;
+      }
+      .body {
+        color: whitesmoke;
+        background-color: rgb(83, 81, 81);
+      }
+    </style>
+  </head>
+  <body class="body">
+    <div class="body">
+      <h1
+        style="text-align: center; font-style: oblique; color:rgb(219, 171, 219)"
+      >
+        <em>Car Details of {{car.car_id}}</em>
+      </h1>
+      <br />
+      <p style="text-align: center; font-size: xx-large;">
+        Car ID : {{car.car_id}}
+      </p>
+      <p style="text-align: center; font-size: xx-large;">
+        Name : {{car.name}}
+      </p>
+      <p style="text-align: center; font-size: xx-large;">
+        Displacement : {{car.displacement}}
+      </p>
+      <p style="text-align: center; font-size: xx-large;">
+        Engine : {{car.engine}}
+      </p>
+      <p style="text-align: center; font-size: xx-large;">HP : {{car.hp}}</p>
+      <p style="text-align: center; font-size: xx-large;">
+        Transmission : {{car.transmission}}
+      </p>
+      <p style="text-align: center; font-size: xx-large;">
+        Speed : {{car.speed}}
+      </p>
+      <p style="text-align: center; font-size: xx-large;">
+        Cost in USD : {{car.cost_in_usd}}
+      </p>
+    </div>
+  </body>
+</html>
