@@ -1,0 +1,142 @@
+{"cars" : [
+ {
+  "car_id":"101",
+   "name": "McLaren_F1",
+   "displacement": 6.100000345,
+   "engine": "V12",
+   "hp": "618",
+   "transmission": "6",
+   "speed": "243",
+   "cost_in_usd": "25,000,000",
+   "colors": [
+     { "id": "1", "color": "black" },
+     { "id": "2", "color": "titanium" }
+   ]
+ },
+ {
+  "car_id":"102",
+   "name": "Bugatti_Chiron",
+   "displacement": 8,
+   "engine": "W16",
+   "hp": "1479",
+   "transmission": "7",
+   "speed": "250",
+   "cost_in_usd": "3, 000, 000",
+   "colors": [
+    { "id": "1", "color": "red" },
+    { "id": "2", "color": "blue" }
+  ]
+ },
+ {
+  "car_id":"103",
+   "name": "Mercedes__AMG_ONE",
+   "displacement": 1.6,
+   "engine": "V6",
+   "hp": "748",
+   "transmission": "8",
+   "speed": "217",
+   "cost_in_usd": "2, 653, 000",
+   "colors": [
+    { "id": "1", "color": "red" },
+    { "id": "2", "color": "blue" }
+  ]
+ },
+ {
+  "car_id":"104",
+   "name": "McLaren_Sennaaaa",
+   "displacement": 4,
+   "engine": "V8987654",
+   "hp": "789",
+   "transmission": "NaN",
+   "speed": "211",
+   "cost_in_usd": "1, 500, 000",
+   "colors": [
+    { "id": "1", "color": "red" },
+    { "id": "2", "color": "blue" }
+  ]
+ },
+ {
+  "car_id":"105",
+   "name": "Koenigseeeggg_Agera",
+   "displacement": 5,
+   "engine": "V8",
+   "hp": "1016",
+   "transmission": "NaN",
+   "speed": "249",
+   "cost_in_usd": "2, 500, 000",
+   "colors": [
+    { "id": "1", "color": "red" },
+    { "id": "2", "color": "blue" }
+  ]
+ },
+ {
+  "car_id":"106",
+   "name": "Porsche_918_Spyder",
+   "displacement": null,
+   "engine": "V8",
+   "hp": "NaN",
+   "transmission": "7",
+   "speed": "211",
+   "cost_in_usd": "900, 000",
+   "colors": [
+    { "id": "1", "color": "red" },
+    { "id": "2", "color": "blue" }
+  ]
+ },
+ {
+  "car_id":"107",
+   "name": "Ferrari_LaFerrari",
+   "displacement": 6.3,
+   "engine": "V12",
+   "hp": "949",
+   "transmission": "7",
+   "speed": "NaN",
+   "cost in USD": "2, 000, 000",
+   "colors": [
+    { "id": "1", "color": "red" },
+    { "id": "2", "color": "blue" }
+   ]
+ },
+ {
+  "car_id":"108",
+   "name": "Pagaani_Huayra_BC",
+   "displacement": 6,
+   "engine": "__",
+   "hp": "745",
+   "transmission": "7",
+   "speed": "230",
+   "cost_in_usd": "2, 550, 000",
+   "colors": [
+    { "id": "1", "color": "red" },
+    { "id": "2", "color": "blue" }
+   ]
+  },
+ {
+  "car_id":"109",
+   "name": "Aston_Martin_Valkyrie",
+   "displacement": 6.590987865,
+   "engine": "V12",
+   "hp": "NaN",
+   "transmission": "NaN",
+   "speed": "250",
+   "cost_in_usd": "3, 200, 000",
+   "colors": [
+    { "id": "1", "color": "red" },
+    { "id": "2", "color": "blue" }
+   ]
+  },
+ {
+  "car_id":"110",
+   "name": "Bugatti_Veyronre",
+   "displacement": 8,
+   "engine": "W16",
+   "hp": "987",
+   "transmission": "7",
+   "speed": "267.856",
+   "cost_in_usd": "2, 000, 000",
+   "colors": [
+    { "id": "1", "color": "red" },
+    { "id": "2", "color": "blue" }
+   ]
+  }
+]}
